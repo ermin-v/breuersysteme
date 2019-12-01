@@ -1,0 +1,15 @@
+.logo {
+	
+.col-sm-8 {
+	text-align: right;
+}
+.nav {
+	background-color: white;
+}
+.active {
+	float: left;
+	text-align: center;
+}
+.info-p {
+	margin-top: 15px;
+}
